@@ -31,7 +31,7 @@ These tables facilitate address management for both customers and stores, suppor
 
 ### SQL Command Usage
 - Joins and Filters:
-Using commands like JOIN and WHERE, complex data retrieval is streamlined, such as fetching all orders for a specific customer or obtaining the store details of a particular order.
+Using commands like `JOIN` and `WHERE`, complex data retrieval is streamlined, such as fetching all orders for a specific customer or obtaining the store details of a particular order.
 - Dummy Data:
 Populating tables with test data helps verify the accuracy of queries and the overall database setup.
 
